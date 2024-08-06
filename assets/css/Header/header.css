@@ -1,0 +1,23 @@
+.h-container {
+  width: 100%;
+  height: 10rem;
+
+  background: linear-gradient(to right, #717171, #959595);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /* padding: 0 3.2rem; */
+
+}
+
+.h-container nav ul {
+  display: flex;
+  gap: 1.5rem;
+}
+
+ul li {
+  transform: translateY(-4px);
+}
+
+
