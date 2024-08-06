@@ -18,8 +18,11 @@ ul {
 }
 
 a {
-  font-style: none;
-  color: inherit;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #fff;
+  font-family: var(--font-head1);
+  font-size: 1.8rem;
 }
 
 img {
